@@ -1,0 +1,13 @@
+h1{
+  font-weight: 30;
+  font-family: 'Whisper', cursive;
+}
+p{
+    /* 
+    font-style: italic; */
+    font-variant: small-caps;
+    font-size: 30px;
+    font-family: 'Whisper', cursive;
+    font-weight: bold;
+
+}

@@ -1,0 +1,22 @@
+/* We use lenght in width , hight margin ,pading, font-size
+*there are two type of  units in css
+1.Absolute
+a.Cm
+b.Mm
+c.Inch
+d.Px (1 inch=96px)
+e.pt (1 inch =72pt)
+f.pc (1 pc=12pt)
+2.Relative 
+1.Mm-em is relative to the size of its direct parent
+2.Rem - rem is only relative to root (html tag) size
+3.Vh - 1% of view port hieght
+4.Vw -1% of view port width
+5.% relative to parent */
+#parent{
+font-size: 38px;
+
+}
+#child{
+    font-size: 35px;
+}

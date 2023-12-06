@@ -1,0 +1,26 @@
+#text{
+    width: 500px;
+    border: 1px solid blue;
+    /* how to change color */
+    color:red ;
+    text-align: justify;
+    /* learn about text docorestion */
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    /* text-transform: capitalize; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    /* text-transform: none; */
+    /* lear about line hight */
+    line-height: 30px;
+    /* learn letter spacing -letter spacing use beetwen leter space*/
+    letter-spacing: 5px;
+    /* this is word spacing it's give space beetwen word */
+    word-spacing: 5px;
+}
+#shadow{
+    font-size: 70px;
+    /* text-shadow: 5px 10px 5px red; */
+    
+}
