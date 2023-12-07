@@ -1,0 +1,8 @@
+div{
+    border:1px solid yellow !important;
+    /* if you apply  more then border color so that condition you want to one border color appaly
+    that time use important */
+}
+div{
+    border:1px solid green;
+}
