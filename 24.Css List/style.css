@@ -1,0 +1,20 @@
+ul{
+    /* list-style-type: none; */
+    /* this propery remove the list property */
+    /* list-style-type: circle; */
+    list-style-type: square;
+    list-style-position: inside;
+    
+
+}
+ol{
+    list-style-type: upper-alpha;
+    list-style-type: lower-greek;
+    list-style-type:lower-roman;
+    list-style-type:lower-alpha ;
+
+    
+}
+li{
+    border: 1px solid black;
+}
