@@ -1,0 +1,4 @@
+textarea{
+    resize: none;
+    /* this property is not scalebale */
+}

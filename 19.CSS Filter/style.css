@@ -1,0 +1,7 @@
+img{
+    /* filter: blur(5px); */
+    /* filter: drop-shadow(8px 8px 5px red); */
+    /* filter: grayscale(30%); */
+    /* filter: invert(100%); */
+    filter: opacity(50%);
+}
