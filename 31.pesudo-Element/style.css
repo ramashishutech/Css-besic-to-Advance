@@ -1,0 +1,23 @@
+/* if you want big elemnt that change  specifce element */
+/* selector::pesudo-element{
+ pesudo element take duble collan
+} */
+/* p::first-letter{
+    font-size: 35px;
+    color: red;
+} */
+p::first-line{
+    font-size: 35px;
+    color: blue;
+}
+h1::after{
+    content: "Hello";
+}
+h1::before{
+    content: "Hello";
+}
+::selection{
+    color: red;
+    background-color: yellow;
+    /* this methode use highlight slection */
+}

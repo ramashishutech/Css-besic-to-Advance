@@ -1,0 +1,36 @@
+/* selector:paused-class{
+
+}
+a:link{
+
+}
+a:hover{
+    
+}  this is lick that paused-class*/
+/* li:first-child{
+    color: red;
+    if you want only first child chenge use the this property
+}
+li:last-child{
+    color: blue;
+    if you want change the last child element  you can use this property
+} */
+/* if you wont to change any middle li child so use this property look the belwo */
+/* li:nth-child(3){
+    color: yellow;
+} */
+/* if you want to change odd  child element so can use this property */
+/* li:nth-child(odd ){
+    color: yellow;
+} */
+
+/* li:nth-child(even){
+    color: yellow;
+} */
+li:nth-child(2){
+    color: yellow;
+}
+
+input:focus{
+    border: 3px solid red;
+}
