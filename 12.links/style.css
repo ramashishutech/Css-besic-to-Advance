@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+}
+/* ther are fore step link in html 
+1.link
+2.visited
+3.hover
+4.active */
+a:link{
+color: yellow;
+}
+a:visited{
+color: black;
+}
+a:hover{
+    color: orange;
+
+}
+a:active{
+    color: red;
+
+}
