@@ -1,0 +1,44 @@
+/* 1.static(default)-normal flow
+2.relative
+3.fixed
+4.absolute */
+
+
+/* 1.top
+2.bottom
+3.left
+4.right */
+#parent{
+ border: 1px solid red;
+ padding: 20px;
+ width: 50%;
+}
+#one{
+
+width: 100px;
+height: 100px;
+display: inline-block;
+background-color: aqua;
+}
+#two{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color:green;
+    /* position: relative;
+    top: 50px;
+    left: 50px; */
+    /* position: absolute;
+    top: 0px;
+    left:0px ; */
+    /* position: relative; */
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+#three{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: yellow;
+}
